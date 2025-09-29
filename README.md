@@ -1,8 +1,4 @@
-Concept project for demonstration only. Product names, prices, and images are placeholders.
+This is a concept project for demonstration. Names, emails, phone, and testimonials are placeholders and not affiliated with a real company.
 
-Quick note about the Live Demo links
-
-These URLs will work after you enable GitHub Pages:
-Repo → Settings → Pages → Source: Deploy from a branch → Branch: main / root → Save
-If your repo names are different, update:
-https://ar33bsheikh-web.github.io/<your-repo-name>/
+README.md for ShopHub
+Copy this into the repo (README.md):
